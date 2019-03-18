@@ -1,0 +1,3 @@
+One obvious finding is that Pyber's customers largely live in urban areas.
+Another is that the rural drivers are the most profitable in that they make up only 2.6% of the drivers yet generate 6.8% of the total fares.
+I think Pyber should try to shift some of its drivers from the urban areas to the suburban or, if possible, the rural areas since those markets are less well served and can produce more revenue on a per driver basis.
